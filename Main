@@ -18,4 +18,4 @@ if hookmetamethod and typeof(hookmetamethod) == 'function' then
 	end)
 end
 
-loadstring(game:HttpGet(https://raw.githubusercontent.com/spooki2/EditedScript/main/A"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spooki2/EditedScript/main/A"))()
